@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "mcliffo.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - Projects.qmd
+
+format:
+  html:
+    theme: lumen
+    css: styles.css
+    toc: true
+
+editor: visual
+

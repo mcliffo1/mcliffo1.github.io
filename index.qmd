@@ -1,0 +1,23 @@
+---
+title: "Max Clifford"
+
+about:
+  id: intro-heading
+  template: trestles
+  image: Max.jpg
+  links:
+    - icon: github
+      href: https://github.com/mcliffo
+---
+
+::: {#intro-heading}
+Hello! I'm Max. When I'm not busy playing football or hockey, I like to dabble in some data science! Check out my projects on the similarly named tab!
+
+## Education
+
+Macalester College \| St. Paul MN <br>
+
+B.A. in Data Science \| Sept 2022 - May 2026
+:::
+
+\### This content appears below the formatted about page content.
