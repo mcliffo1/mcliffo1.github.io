@@ -2,7 +2,10 @@
   {
     "listing": "/Projects.html",
     "items": [
-      "/Projects/TidyTuesday/TidyTuesday.html"
+      "/Projects/TidyTuesday/TidyTuesday.html",
+      "/Projects/Intro to Statistical Modeling Final Project/index.html",
+      "/Projects/Intro to Object Oriented Programming Final Project/index.html",
+      "/Projects/Intro to Data Science Final Project/index.html"
     ]
   }
 ]

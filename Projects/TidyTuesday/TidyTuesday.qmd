@@ -4,7 +4,6 @@ title: "Tidy Tuesday #x"
 /*image-alt:
 categories:
   - Tidy Tuesday
-  - Taylor Swift
 about: 
   template: broadside
 ---

@@ -1,0 +1,11 @@
+---
+title: "Intro to Statistical Modeling Final Write-Up - Open Powerlifting"
+/*image: 
+/*image-alt:
+categories:
+  - Linear Regression
+  - Hypothesis Testing
+  - Confidence Intervals
+about: 
+  template: broadside
+---
