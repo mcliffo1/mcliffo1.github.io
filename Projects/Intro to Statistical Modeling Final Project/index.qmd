@@ -1,6 +1,6 @@
 ---
 title: "Intro to Statistical Modeling Final Write-Up - Open Powerlifting"
-/*image: 
+image: featured.jpg
 /*image-alt:
 categories:
   - Linear Regression
@@ -8,4 +8,9 @@ categories:
   - Confidence Intervals
 about: 
   template: broadside
+  image: featured.jpg
 ---
+
+For our final paper for Intro stats, we constructed a confidence interval and ran a hypothesis along with our multiple linear regression, on a dataset from OpenPowerlifting.com
+
+Write-up: <https://docs.google.com/document/d/1LjEIl12oWkdoYoM920qpRIiIZjgyvLkS/edit?usp=sharing&ouid=118001154387901775438&rtpof=true&sd=true>

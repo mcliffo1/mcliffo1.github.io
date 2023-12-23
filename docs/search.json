@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "Max Clifford",
     "section": "",
-    "text": "Hello! I’m Max, a sophomore Student athlete at Macalester College studying Data Science, Spanish, and Portuguese. When I’m not busy playing football or hockey, I like to dabble in some data science! Check out my projects on the correspondingly named tab!\n\n\nMacalester College | St. Paul MN \nB.A. in Data Science | Sept 2022 - May 2026\n\n\nEmail: mcliffo1@macalester.edu"
+    "text": "Hello! I’m Max, a sophomore Student athlete at Macalester College studying Data Science, Spanish, and Portuguese. When I’m not busy playing football or hockey, I like to dabble in some data science! Check out my projects on the correspondingly named tab!\n\n\nMacalester College | St. Paul MN \nB.A. in Data Science | Sept 2022 - In Progress\n\n\nEmail: mcliffo1@macalester.edu"
   },
   {
     "objectID": "Projects.html",
     "href": "Projects.html",
     "title": "Projects",
     "section": "",
-    "text": "About this site\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nTidy Tuesday #x\n\n\n\nTidy Tuesday\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to Statistical Modeling Final Write-Up - Open Powerlifting\n\n\n\nLinear Regression\n\n\nHypothesis Testing\n\n\nConfidence Intervals\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to OOP Final Project - Dad Joke Guessing Game\n\n\n\nJava\n\n\nObject Oriented Programming\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to Data Science Final Project - Ski Resorts\n\n\n\nData Viz\n\n\nRStudio\n\n\nSix Main Verbs\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "About this site\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nTidy Tuesday #x\n\n\n\nTidy Tuesday\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to Statistical Modeling Final Write-Up - Open Powerlifting\n\n\n\nLinear Regression\n\n\nHypothesis Testing\n\n\nConfidence Intervals\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to OOP Final Project - Dad Joke Guessing Game\n\n\n\nJava\n\n\nObject Oriented Programming\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to Data Science Final Project - Ski Resorts\n\n\n\nData Viz\n\n\nRStudio\n\n\nSix Main Verbs\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Max Clifford",
     "section": "",
-    "text": "Macalester College | St. Paul MN \nB.A. in Data Science | Sept 2022 - May 2026\n\n\nEmail: mcliffo1@macalester.edu"
+    "text": "Macalester College | St. Paul MN \nB.A. in Data Science | Sept 2022 - In Progress\n\n\nEmail: mcliffo1@macalester.edu"
   },
   {
     "objectID": "Projects/Intro to Data Science Final Project/index.html",
@@ -26,5 +26,12 @@
     "title": "Intro to Data Science Final Project - Ski Resorts",
     "section": "",
     "text": "A final project for Intro to Data Science - \nI worked with my two groupmates, Greg and Jude, with a kaggle dataset from skiresort.info.\nKnitted RMD: https://drive.google.com/file/d/1aewo2_Qqe0UxFsxZZXK1Y9AmuTlGEwJZ/view?usp=sharing\nOur Slideshow: https://docs.google.com/presentation/d/1sLQ3lZrjuKk60OCOXaPn-Ewcj8TRuNHQ6o0t1HIia8Q/edit?usp=sharing"
+  },
+  {
+    "objectID": "Projects/Intro to Statistical Modeling Final Project/index.html",
+    "href": "Projects/Intro to Statistical Modeling Final Project/index.html",
+    "title": "Intro to Statistical Modeling Final Write-Up - Open Powerlifting",
+    "section": "",
+    "text": "For our final paper for Intro stats, we constructed a confidence interval and ran a hypothesis along with our multiple linear regression, on a dataset from OpenPowerlifting.com\nWrite-up: https://docs.google.com/document/d/1LjEIl12oWkdoYoM920qpRIiIZjgyvLkS/edit?usp=sharing&ouid=118001154387901775438&rtpof=true&sd=true"
   }
 ]

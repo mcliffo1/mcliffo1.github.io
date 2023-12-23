@@ -8,3 +8,9 @@ categories:
 about: 
   template: broadside
 ---
+
+For this object oriented final project, we used the icanhazdadjoke API to make a dad joke guessing game.
+
+Slideshow: <https://docs.google.com/presentation/d/1PW4QE-anDLtXPoghTs3hF1dKrHnwfG-VeUScI4FLTjc/edit?usp=sharing>
+
+Github Repo: TODO: link repo and get featured.jpg
