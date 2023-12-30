@@ -15,5 +15,9 @@ A final project for Intro to Data Science - <br>
 
 I worked with my two groupmates, Greg and Jude, with a kaggle dataset from skiresort.info.
 
-Knitted RMD: <https://drive.google.com/file/d/1aewo2_Qqe0UxFsxZZXK1Y9AmuTlGEwJZ/view?usp=sharing>\
-Our Slideshow: <https://docs.google.com/presentation/d/1sLQ3lZrjuKk60OCOXaPn-Ewcj8TRuNHQ6o0t1HIia8Q/edit?usp=sharing>
+Our focus was on finding the sole best ski resort for a family to visit.
+
+Through this project we mostly applied the six main verbs of dplyr, (Mutate, Select, group_by, etc.), and used visualizations to tell a story.
+
+[Knitted RMD File](https://drive.google.com/file/d/1aewo2_Qqe0UxFsxZZXK1Y9AmuTlGEwJZ/view?usp=sharing) (Download, then open)\
+[Slideshow](https://docs.google.com/presentation/d/1sLQ3lZrjuKk60OCOXaPn-Ewcj8TRuNHQ6o0t1HIia8Q/edit?usp=sharing)

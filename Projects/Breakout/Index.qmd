@@ -1,0 +1,16 @@
+---
+title: "Breakout Game"
+image: featured.jpg
+/*image-alt:
+categories:
+  - Object Oriented Programming
+  - Java
+  - Event Handlers
+about: 
+  template: broadside
+  image: featured.jpg
+---
+
+For one of our Object Oriented Programming homework assignments, I created a version of the game breakout, with little to no given pseudocode/framework. Some ideas that I primarily focused on in this given assignment were Method and Class Decomposition.
+
+[Github Repo](https://github.com/mcliffo1/Breakout)

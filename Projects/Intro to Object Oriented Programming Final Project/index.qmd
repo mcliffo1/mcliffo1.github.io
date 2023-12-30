@@ -1,16 +1,17 @@
 ---
 title: "Intro to OOP Final Project - Dad Joke Guessing Game"
-/*image: 
+image: featured.jpg
 /*image-alt:
 categories:
   - Java
   - Object Oriented Programming
 about: 
   template: broadside
+  image: featured.jpg
 ---
 
-For this object oriented final project, we used the icanhazdadjoke API to make a dad joke guessing game.
+For this object oriented final project, we used the icanhazdadjoke API (https://icanhazdadjoke.com/api)to make a dad joke guessing game.
 
-Slideshow: <https://docs.google.com/presentation/d/1PW4QE-anDLtXPoghTs3hF1dKrHnwfG-VeUScI4FLTjc/edit?usp=sharing>
+[Slideshow](https://docs.google.com/presentation/d/1PW4QE-anDLtXPoghTs3hF1dKrHnwfG-VeUScI4FLTjc/edit?usp=sharing)
 
-Github Repo: TODO: link repo and get featured.jpg
+[Github Repo](https://github.com/mcliffo1/Dad-Joke-Game/import)

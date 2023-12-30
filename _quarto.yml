@@ -9,6 +9,15 @@ website:
       - href: index.qmd
         text: Home
       - Projects.qmd
+      
+  page-footer:
+    left: |
+      &copy; Maxwell Clifford, 2023<br>
+      All content licensed under <i class='bi-badge-cc'></i>
+      [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+    right: |
+      Site built with <a href='https://quarto.org/'>Quarto</a>
+
 
 format:
   html:
