@@ -12,7 +12,7 @@ about:
 
 <div>
 
-Hello! I'm Max, a sophomore Student athlete at Macalester College studying Data Science, Spanish, and Portuguese. When I'm not busy playing football or hockey, I like to dabble in some data science! Check out my projects on the correspondingly named tab!
+Hello! I'm Max, a junior Student athlete at Macalester College studying Data Science, Spanish, and Portuguese. When I'm not busy playing football or hockey, I like to dabble in some data science! Check out my projects on the correspondingly named tab!
 
 <div>
 
@@ -20,13 +20,13 @@ Hello! I'm Max, a sophomore Student athlete at Macalester College studying Data 
 
 Macalester College \| St. Paul MN <br>
 
-B.A. in Data Science \| Sept 2022 - In Progress
+B.A. in Data Science \| Sept 2022 - In Progress <br>
 
 GPA: 3.94
 
 ### Get in Touch
 
-Email: [mcliffo1\@macalester.edu](mailto:mcliffo1@macalester.edu)
+Email: [mcliffo1\@macalester.edu](mailto:mcliffo1@macalester.edu) <br>
 
 Phone: 303-598-9849
 
