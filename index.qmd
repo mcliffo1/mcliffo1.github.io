@@ -4,7 +4,7 @@ listing: false
 about:
   id: intro-heading
   template: trestles
-  image: Max.jpg
+  image: Max1.jpg
   links:
     - icon: github
       href: https://github.com/mcliffo1
