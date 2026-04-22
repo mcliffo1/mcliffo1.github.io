@@ -6,11 +6,12 @@ categories:
   - Object Oriented Programming
   - Java
   - Event Handlers
+date: 2023-09-30
 about: 
   template: broadside
   image: featured.jpg
 ---
 
-For one of our Object Oriented Programming homework assignments, I created a version of the game breakout, with little to no given pseudocode/framework. Some ideas that I primarily focused on in this given assignment were Method and Class Decomposition.
+For one of our Object Oriented Programming homework assignments, we were tasked to create a version of the game breakout from the ground up, I found it to be a fun exercise!
 
 [Github Repo](https://github.com/mcliffo1/Breakout)

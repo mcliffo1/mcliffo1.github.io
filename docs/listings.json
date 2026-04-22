@@ -2,9 +2,8 @@
   {
     "listing": "/Projects.html",
     "items": [
-      "/Projects/Intro to Statistical Modeling Final Project/index.html",
-      "/Projects/Intro to Data Science Final Project/index.html",
-      "/Projects/Intro to Object Oriented Programming Final Project/index.html",
+      "/Projects/Forecasting MISO Energy Usage/index.html",
+      "/Projects/Bernoulli Logistic Regression/index.html",
       "/Projects/Breakout/Index.html"
     ]
   }

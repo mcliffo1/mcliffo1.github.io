@@ -1,6 +1,6 @@
 ---
 title: "Max Clifford"
-
+listing: false
 about:
   id: intro-heading
   template: trestles
@@ -12,7 +12,7 @@ about:
 
 <div>
 
-Hello! I'm Max, a junior Student athlete at Macalester College studying Data Science, Spanish, and Portuguese. When I'm not busy playing football or hockey, I like to dabble in some data science! Check out my projects on the correspondingly named tab!
+Hello! I'm Max, a Senior Student-athlete at Macalester College studying Data Science and Portuguese. When I'm not busy being active, I like to dabble in some data science! Check out my projects on the similarly named tab!
 
 <div>
 
@@ -20,15 +20,31 @@ Hello! I'm Max, a junior Student athlete at Macalester College studying Data Sci
 
 Macalester College \| St. Paul MN <br>
 
-B.A. in Data Science \| Sept 2022 - In Progress <br>
+B.A. in Data Science \| Portuguese Minor \| Sept 2022 - May 2026 <br>
 
-GPA: 3.94
+GPA: 3.8
+
+## Accolades
+
+Macalester Scots Football Captain
+
+[All-MIAC Offensive Line](https://athletics.macalester.edu/news/2025/11/24/football-clifford-named-all-miac-green-litchford-receive-honorable-mention.aspx) <br>
+
+[College Sports Communicators Academic All-District Team](https://athletics.macalester.edu/news/2026/1/6/football-macalester-places-eight-on-academic-all-district-team.aspx) <br>
+
+[Academic ALL-MIAC](https://athletics.macalester.edu/news/2026/1/29/recruiting-miac-recognizes-88-scots-with-fall-academic-all-miac-honors.aspx) <br>
+
+Dean's List
+
+[Hampshire Honor Society](https://athletics.macalester.edu/news/2026/4/8/football-ten-scots-inducted-into-hampshire-honor-society.aspx)
 
 ### Get in Touch
 
 Email: [mcliffo1\@macalester.edu](mailto:mcliffo1@macalester.edu) <br>
 
-Phone: 303-598-9849
+Phone: 303-598-9849 <br>
+
+[Linkedin](https://www.linkedin.com/in/maxwellclifford1/)
 
 </div>
 

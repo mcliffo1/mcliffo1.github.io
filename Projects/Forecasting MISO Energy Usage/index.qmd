@@ -1,0 +1,15 @@
+---
+title: "Forecasting MISO Energy Usage"
+image: KnitQMD.jpeg
+date: 2026-4-20
+categories:
+  - Correlated Data
+  - Time-Series Data
+  - Forecasting
+about: 
+  template: broadside
+  image: KnitQMD.jpeg
+---
+
+My capstone presentation for Statistics 452, Correlated Data. We took a look at how the Mid-Continent Independent System Operators handle their own forecasting of energy usage within the mid-west.\
+[Here](https://docs.google.com/presentation/d/17kpRFCDMliyREAXF8MZDU7UVpxmBYccXa494sulTRPg/edit?usp=sharing) is a link to the slide-show that I presented for capstone day.

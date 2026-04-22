@@ -1,79 +1,44 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Max Clifford",
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "Hello! I’m Max, a sophomore Student athlete at Macalester College studying Data Science, Spanish, and Portuguese. When I’m not busy playing football or hockey, I like to dabble in some data science! Check out my projects on the correspondingly named tab!\n\n\nMacalester College | St. Paul MN \nB.A. in Data Science | Sept 2022 - In Progress\n\n\nEmail: mcliffo1@macalester.edu"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Max Clifford",
-    "section": "",
-    "text": "Macalester College | St. Paul MN \nB.A. in Data Science | Sept 2022 - In Progress\n\n\nEmail: mcliffo1@macalester.edu"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nForecasting MISO Energy Usage\n\n\n\n\n\n\n\n\n\nApr 20, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBayesian Bernoulli Logistic Regression Paper\n\n\n\n\n\n\n\n\n\nApr 13, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBreakout Game\n\n\n\n\n\n\n\n\n\nSep 30, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Projects/Breakout/Index.html",
     "href": "Projects/Breakout/Index.html",
     "title": "Breakout Game",
     "section": "",
-    "text": "For one of our Object Oriented Programming homework assignments, I created a version of the game breakout, with little to no given pseudocode/framework. Some ideas that I primarily focused on in this given assignment were Method and Class Decomposition.\nGithub Repo"
+    "text": "For one of our Object Oriented Programming homework assignments, we were tasked to create a version of the game breakout from the ground up, I found it to be a fun exercise!\nGithub Repo"
   },
   {
-    "objectID": "Projects/Intro to Data Science Final Project/index.html",
-    "href": "Projects/Intro to Data Science Final Project/index.html",
-    "title": "Intro to Data Science Final Project - Ski Resorts",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Max Clifford",
     "section": "",
-    "text": "A final project for Intro to Data Science - \nI worked with my two groupmates, Greg and Jude, with a kaggle dataset from skiresort.info.\nOur focus was on finding the sole best ski resort for a family to visit.\nThrough this project we mostly applied the six main verbs of dplyr, (Mutate, Select, group_by, etc.), and used visualizations to tell a story.\nKnitted RMD File (Download, then open)\nSlideshow"
+    "text": "Hello! I’m Max, a Senior Student-athlete at Macalester College studying Data Science and Portuguese. When I’m not busy being active, I like to dabble in some data science! Check out my projects on the similarly named tab!\n\n\n\nMacalester College | St. Paul MN \nB.A. in Data Science | Portuguese Minor | Sept 2022 - May 2026 \nGPA: 3.8\n\n\n\nMacalester Scots Football Captain\nAll-MIAC Offensive Line \nCollege Sports Communicators Academic All-District Team \nAcademic ALL-MIAC \nDean’s List\nHampshire Honor Society\n\n\nEmail: mcliffo1@macalester.edu \nPhone: 303-598-9849 \nLinkedin"
   },
   {
-    "objectID": "Projects/Intro to Object Oriented Programming Final Project/index.html",
-    "href": "Projects/Intro to Object Oriented Programming Final Project/index.html",
-    "title": "Heirarchical Clustering and Dimension Reduction on NFL Teams, With Kyle Suelflow and Austin Mills",
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Max Clifford",
     "section": "",
-    "text": "library(tidyverse)\nlibrary(fivethirtyeight)\nlibrary(cluster)      # to build the hierarchical clustering algorithm\nlibrary(factoextra)\nlibrary(VIM)\nlibrary(tidymodels)\ndata(nfl_fav_team)\n# Access a codebook and context from the console\n?nfl_fav_team\nnfl &lt;- nfl_fav_team%&gt;%\n  column_to_rownames(\"team\")"
+    "text": "Macalester College | St. Paul MN \nB.A. in Data Science | Portuguese Minor | Sept 2022 - May 2026 \nGPA: 3.8"
   },
   {
-    "objectID": "Projects/Intro to Statistical Modeling Final Project/index.html",
-    "href": "Projects/Intro to Statistical Modeling Final Project/index.html",
-    "title": "Intro to Statistical Modeling Final Write-Up - Open Powerlifting",
+    "objectID": "index.html#accolades",
+    "href": "index.html#accolades",
+    "title": "Max Clifford",
     "section": "",
-    "text": "For our final paper for Intro stats, we constructed a confidence interval and ran a hypothesis test along with our multiple linear regression, on a dataset from OpenPowerlifting.com.\nWrite-up"
+    "text": "Macalester Scots Football Captain\nAll-MIAC Offensive Line \nCollege Sports Communicators Academic All-District Team \nAcademic ALL-MIAC \nDean’s List\nHampshire Honor Society\n\n\nEmail: mcliffo1@macalester.edu \nPhone: 303-598-9849 \nLinkedin"
   },
   {
-    "objectID": "Projects.html",
-    "href": "Projects.html",
-    "title": "Projects",
+    "objectID": "Projects/Forecasting MISO Energy Usage/index.html",
+    "href": "Projects/Forecasting MISO Energy Usage/index.html",
+    "title": "Forecasting MISO Energy Usage",
     "section": "",
-    "text": "About this site\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nIntro to Statistical Modeling Final Write-Up - Open Powerlifting\n\n\n\nLinear Regression\n\n\nHypothesis Testing\n\n\nConfidence Intervals\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to Data Science Final Project - Ski Resorts\n\n\n\nData Viz\n\n\nRStudio\n\n\nSix Main Verbs\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHeirarchical Clustering and Dimension Reduction on NFL Teams, With Kyle Suelflow and Austin Mills\n\n\n\nClustering\n\n\nHeirarchical Clustering\n\n\nDimension Reduction\n\n\nFootball\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBreakout Game\n\n\n\nObject Oriented Programming\n\n\nJava\n\n\nEvent Handlers\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "Projects/Intro to Object Oriented Programming Final Project/index.html#write-up",
-    "href": "Projects/Intro to Object Oriented Programming Final Project/index.html#write-up",
-    "title": "Heirarchical Clustering and Dimension Reduction on NFL Teams, With Kyle Suelflow and Austin Mills",
-    "section": "Write-up",
-    "text": "Write-up\nWe chose to use hierarchical clustering to help identify clusters within our data on nfl teams. We chose a k of 4, because that looked to be the most natural split when looking at the dendrogram. Cluster 4 is the most distinct cluster based on its features. The characteristics of this cluster are small market teams with poor coaches and poor stadium experiences. This group is furthest away from both St Louis and NYC. They also have by far the worst score in future wins, players, and ownership. Essentially, this group of teams, comprised of the Raiders, Browns, Titans, Chargers, Dolphins, and 49ers, are all bad teams in bad spots as a franchise. We wouldn’t want to be a fan of these teams! Cluster 3 represents the big market teams, which are close in proximity to NYC, but have poor fan relations, and are expensive on game day. These teams also have a high bandwagon factor, and have strong traditions. This cluster is comprised of the Redskins, Jets, Rams, Bears, Cowboys, Giants, and Eagles. Cluster 2 is comprised of small market teams with ugly uniforms, and affordable game day experience. Close in proximity to St Louis, this group is characterized by its fairly average score across many of the categories. Cluster 1 is comprised of teams with strong coaching staffs, and an excellent stadium experience. Similarly, the relationship with fans is a strong one, and the fans are rewarded with a large number of wins. This group also has strong ownership. That, combined with the coaching and the very strong players score, creates a situation where the future wins of this group is very high. Cluster 1 looks to be the group that we would most like to be a fan of!"
-  },
-  {
-    "objectID": "Projects/Intro to Object Oriented Programming Final Project/index.html#code-and-plots",
-    "href": "Projects/Intro to Object Oriented Programming Final Project/index.html#code-and-plots",
-    "title": "Heirarchical Clustering and Dimension Reduction on NFL Teams, With Kyle Suelflow and Austin Mills",
-    "section": "Code and plots",
-    "text": "Code and plots\n\n#Heatmap\nheatmap(scale(data.matrix(nfl)), Colv = NA)\n\n\n\n\n\n\n\n\n#Running hierarchical clustering algorithm\nhier_model &lt;- hclust(dist(scale(nfl)), method = \"complete\")\n\n#Assigning clusters\ncluster_data &lt;- nfl %&gt;% \n  mutate(hier_cluster_k = as.factor(cutree(hier_model, k = 4)))\n\n#Building dendrogram with clusters highlighted\nfviz_dend(hier_model, k = 4, horiz = TRUE, cex = .4)\n\n\n\n\n\n\n\n\n#Obtaining means of variables within each cluster\nmean_hier &lt;- cluster_data%&gt;%\n  group_by(hier_cluster_k)%&gt;%\n  summarize_all(mean)\n\n#Plot of means of each variable within each cluster, to aid in identifying similar characteristics of each cluster.\nmean_hier%&gt;%\n  pivot_longer(names_to = \"criterion\", values_to = \"score\", cols = !hier_cluster_k)%&gt;%\n  ggplot(aes(x = criterion, y = score, group = hier_cluster_k, color = hier_cluster_k))+\n  geom_line()+\n  theme_classic()+\n  theme(axis.text.x=element_text(angle=45,hjust=1))+\n  labs(color = \"Cluster\", x = \"Criterion\", y = \"Mean Score Within Cluster\")"
-  },
-  {
-    "objectID": "Projects/Intro to Object Oriented Programming Final Project/index.html#write-up-1",
-    "href": "Projects/Intro to Object Oriented Programming Final Project/index.html#write-up-1",
-    "title": "Heirarchical Clustering and Dimension Reduction on NFL Teams, With Kyle Suelflow and Austin Mills",
-    "section": "Write-up",
-    "text": "Write-up\nOur first principal component includes a good amount of a lot of our features, but more specifically their inverses. It appears that it is made up of features that have to do with money, and those that have to do with a teams stadium, fans, coaching, and success on the field, which could be argued to be some of the most important factors to consider. Our second principal component’s loadings are more so dominated by features that are primarily money related, such as market size, and affordability. Obviously, our two market variables that are inverse of each other are both major parts of this principal component, but running opposite of each other. The amount of Principal components we should keep is 4 principal components, as based on our loading plot, and the context of our research goal of finding the perfect team to become a fan of, we cannot ignore variables that are ignored by PC1 and PC2 that are captured later in PC’s 3 and 4, such as team tradition, uniforms, ownership and behavior, as these are all variables that carry a lot of weight when considering which team to select. The amount of information retained by keeping this amount of principal components is 73% of the variability of our data."
-  },
-  {
-    "objectID": "Projects/Intro to Object Oriented Programming Final Project/index.html#code-and-plots-1",
-    "href": "Projects/Intro to Object Oriented Programming Final Project/index.html#code-and-plots-1",
-    "title": "Heirarchical Clustering and Dimension Reduction on NFL Teams, With Kyle Suelflow and Austin Mills",
-    "section": "Code and plots",
-    "text": "Code and plots\n\n#No NAs\nnfl &lt;- data.frame(model.matrix(~ . - 1, nfl))\npca_results &lt;- prcomp(nfl, scale = TRUE, center = TRUE)\n# Plot loadings for first \"5\" PCs\nlibrary(reshape2)\npca_results$rotation %&gt;% as.data.frame() %&gt;%\n  select(PC1:PC13) %&gt;%\n  rownames_to_column(var = 'Variable') %&gt;%\n  pivot_longer(PC1:PC5 ,names_to = 'PC', values_to = 'Value') %&gt;%\n  ggplot(aes(x = Variable, y = Value, fill = Variable)) +\n    geom_bar(stat = \"identity\") +\n    facet_wrap(~ PC) +\n    labs(y = \"loadings\", x = \"original features\", fill = \"original features\") +\n    theme(axis.title.x=element_blank(),\n        axis.text.x=element_blank(),\n        axis.ticks.x=element_blank())\n\n\n\n\n\n\n\n# Graphical summary: Score plot\n# Plot PC1 scores (x-axis) vs PC2 scores (y-axis) of all data points\nfviz_pca_ind(pca_results, repel = TRUE)"
+    "text": "My capstone presentation for Statistics 452, Correlated Data. We took a look at how the Mid-Continent Independent System Operators handle their own forecasting of energy usage within the mid-west.\nHere is a link to the slide-show that I presented for capstone day."
   }
 ]
